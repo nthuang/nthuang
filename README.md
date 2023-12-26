@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Qo0hmct8boVsvbqL2SQnXYS1xztmGQtDA5GTRArqn_c/edit?usp=sharing](https://docs.google.com/document/d/1Qo0hmct8boVsvbqL2SQnXYS1xztmGQtDA5GTRArqn_c/edit?usp=sharing)
 
-- ⚡ Interests: **Badminton, Videogames, Brazilian jiu-jitsu, Muay Thai, Gym**
+- ⚡ Interests: **Badminton🏸, Videogames🎮, Brazilian jiu-jitsu🥋, Muay Thai🥊, Gym🏋️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
