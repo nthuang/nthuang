@@ -1,9 +1,9 @@
 <h1 align="center">Yo 👋, I'm Nathan Tran Huang</h1>
 <h3 align="center">I'm a student at California Polytechnic State University, San Luis Obispo</h3>
 
-- 🌱 Currently enrolled in: <br>**CSC 203 - Project Based Object-Oriented Programming Design <br> CSC 225 - Introduction to Computer Organization**
+- 🌱 Currently enrolled in: <br>**CSC 203 - Project Based Object-Oriented Programming Design </br> CSC 225 - Introduction to Computer Organization**
 
-- 📖 Previously enrolled in: <br> CSC 202 - Data Structures
+- 📖 Previously enrolled in: <br> CSC 202 - Data Structures </br>
 
 - 👨‍💻 All of my projects are available at [[portfolio link]]([portfolio link])
 
