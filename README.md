@@ -3,7 +3,7 @@
 
 - 🌱 Currently enrolled in: <br>**CSC 203 - Project Based Object-Oriented Programming Design <br> CSC 225 - Introduction to Computer Organization**
 
-- 📖 Previously enrolled in: <br> CSC 202 - Data Structures 
+- 📖 Previously enrolled in: <br>**CSC 203 - Project Based Object-Oriented Programming Design <br> CSC 225 - Introduction to Computer Organization** <br> CSC 202 - Data Structures 
 
 - 👨‍💻 All of my projects are available at [[portfolio link]]([portfolio link])
 
