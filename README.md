@@ -5,7 +5,7 @@
 
 - 📖 Previously enrolled in: <br>CSC 357 - Systems Programming <br>CSC 248 - Discrete Structures <br> CPE 225 - Introduction to Computer Organization <br>CSC 203 - Project Based Object-Oriented Programming Design <br> CSC 202 - Data Structures 
 
-- 👨‍💻 All of my projects are available at [nthuang.github.io/](https://nthuang.github.io/)
+- 👨‍💻 All of my projects are available at [nthuang.github.io](https://nthuang.github.io/)
 
 - 📫 How to reach me **nathanhuang34@gmail.com**
 
