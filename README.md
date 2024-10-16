@@ -10,7 +10,7 @@
 - 📫 How to reach me **nathanhuang34@gmail.com**
 
 - 📄 Know about my experiences
-  [Download my Resume]("https://raw.githubusercontent.com/nthuang/nthuang/master/Nathan%20Huang%20Resume.pdf")
+  [Download my Resume](https://raw.githubusercontent.com/nthuang/nthuang/master/Nathan%20Huang%20Resume.pdf)
 
 - ⚡ Interests: **Badminton🏸, Videogames🎮, Brazilian jiu-jitsu🥋, Gym🏋️**
 
