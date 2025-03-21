@@ -1,9 +1,8 @@
 <h1 align="center">Yo 👋, I'm Nathan Tran Huang</h1>
 <h3 align="center">I'm a student at California Polytechnic State University, San Luis Obispo</h3>
 
-- 🌱 Currently enrolled in: <br>CSC 308 - Software Engineering I <br>CSC 365 - Introduction to Database Systems <br>DATA 301 Introduction to Data Science
-
-- 📖 Previously enrolled in: <br>CSC 349 - Design and Analysis of Algorithms <br>CSC 357 - Systems Programming <br>CSC 248 - Discrete Structures <br> CPE 225 - Introduction to Computer Organization <br>CSC 203 - Project Based Object-Oriented Programming Design <br> CSC 202 - Data Structures 
+- 🌱 Currently enrolled in: <br>CSC 309 - Software Engineering II <br>CSC 321 - Introduction to Computer Security <br>CPE 315 - Computer Architecture
+- 📖 Previously enrolled in: <br>CSC 308 - Software Engineering I <br>CSC 365 - Introduction to Database Systems <br>DATA 301 Introduction to Data Science <br>STAT 331 Statistical Computing with R <br>CSC 349 - Design and Analysis of Algorithms <br>CSC 357 - Systems Programming <br>CSC 248 - Discrete Structures <br> CPE 225 - Introduction to Computer Organization <br>CSC 203 - Project Based Object-Oriented Programming Design <br> CSC 202 - Data Structures 
 
 - 👨‍💻 All of my projects are available at [nthuang.github.io](https://nthuang.github.io/)
 
